@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&display=swap");
+
+* {
+  transition: all 0.3s ease-in-out;
+}
+
+/* .container {
+  clear: both;
+  overflow: auto;
+}
+
+nav {
+  float: right;
+}
+
+header {
+  padding-left: 50px;
+  float: left;
+}
+
+.logo img {
+  float: left;
+} */
+
+hr {
+  border-top: 1px solid gray;
+}
+
+ul li {
+  /* display: inline-block; */
+  padding: 10px;
+  font-size: 20px;
+  font-family: raleway;
+  font-weight: 800;
+  font-size: 1.3rem;
+  font-family: "Comfortaa", cursive;
+}
+
+.navbar {
+  padding: 0 !important;
+}
+
+/* ul li:hover {
+  color: orange;
+} */
+
+.name {
+  color: Blue;
+  padding-right: 20px;
+}
+
+.navbar-brand {
+  padding-left: 50px !important;
+}
+
+@media (max-width: 900px) {
+  .logo img {
+    width: 100px !important;
+    height: 100px !important;
+    float: left;
+  }
+}
