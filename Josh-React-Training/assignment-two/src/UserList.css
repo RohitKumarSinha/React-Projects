@@ -1,0 +1,25 @@
+/* src/UserList.css */
+
+/* Add your styles here */
+.container {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    border: 1px solid #ddd;
+    margin: 5px 0;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 4px;
+  }
+  
