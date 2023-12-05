@@ -1,0 +1,297 @@
+{
+	"popular": [
+		{
+			"id": 1,
+			"name": "Tomato pakora",
+			"desc": "Tomatoes, Olive Oil, Cheese",
+			"price": "200"
+		},
+		{
+			"id": 2,
+			"name": "Tomato soup",
+			"desc": "salt, pepper, Tomatoes",
+			"price": "120"
+		},
+		{
+			"id": 3,
+			"name": "Chicken fry",
+			"desc": "Chicken, Oive Oil, green chutney",
+			"price": "245"
+		},
+		{
+			"id": 4,
+			"name": "Baked Potato Skins",
+			"desc": "TPotatoes, Oil, Garlic",
+			"price": "160"
+		},
+		{
+			"id": 5,
+			"name": "Mushroom pizza",
+			"desc": "Mushroom, onion, olive oil",
+			"price": "174"
+		},
+		{
+			"id": 6,
+			"name": "Panner pakora",
+			"desc": "Tomato, Paneer, Chili",
+			"price": "150"
+		},
+		{
+			"id": 7,
+			"name": "Chicken biryani",
+			"desc": "Chicken, rice, curd, salad, onion, tomato, chilli",
+			"price": "232"
+		},
+		{
+			"id": 8,
+			"name": "Garlic Cheese Bread",
+			"desc": "Garlic, Cheeese, Bread",
+			"price": "112"
+		}
+	],
+
+	"Team": [
+		{
+			"id": 1,
+			"image": "/images/team-1.jpg",
+			"title": "Saumya Sharma",
+			"job": "CHEF",
+			"desc": "Total proffesional make every types of food, nyc behaviour toward customer, young and passinate."
+		},
+		{
+			"id": 2,
+			"image": "/images/team-2.jpg",
+			"title": "Rahul Singh",
+			"job": "MANAGER",
+			"desc": "know how to motivate chef and customer, deal with every situation, know about food and customer."
+		},
+		{
+			"id": 3,
+			"image": "/images/team-3.jpg",
+			"title": "Sara Sinha",
+			"job": "FINANCE",
+			"desc": "Know about money where to spend money and perfectnist with his proffesion."
+		},
+		{
+			"id": 4,
+			"image": "/images/team-4.jpg",
+			"title": "Harshit Anand",
+			"job": "MARKETING",
+			"desc": "know about Maket how to invest in market and how to use money in the market."
+		}
+	],
+	"Main": [
+		{
+			"id": 1,
+			"name": "Panner Sabji",
+			"desc": "Panner, Olive Oil, Cheese",
+			"price": "200"
+		},
+		{
+			"id": 2,
+			"name": "Butter Chicken",
+			"desc": "Chicken, butter, Tomatoes",
+			"price": "251"
+		},
+		{
+			"id": 3,
+			"name": "Meat",
+			"desc": "Mutton, Oive Oil, Tomato",
+			"price": "345"
+		},
+		{
+			"id": 4,
+			"name": "Mixed Veg",
+			"desc": "Mix Vegetable, Oil, Garlic",
+			"price": "188"
+		},
+		{
+			"id": 5,
+			"name": "Mushroom Ki Sabji",
+			"desc": "Mushroom, Onion, Garlic",
+			"price": "274"
+		},
+		{
+			"id": 6,
+			"name": "Fried Dal",
+			"desc": "pulse, Onion, Chili",
+			"price": "250"
+		},
+		{
+			"id": 7,
+			"name": "veg pulao",
+			"desc": "Rice, Veg, Olive Oil",
+			"price": "132"
+		}
+	],
+	"Starters": [
+		{
+			"id": 1,
+			"name": "panner Tikka",
+			"desc": "panner, olive oil, curd",
+			"price": "114"
+		},
+		{
+			"id": 2,
+			"name": "Chilli paneer",
+			"desc": "panner, chilli, Tomatoes",
+			"price": "151"
+		},
+		{
+			"id": 3,
+			"name": "Panner Cutlet",
+			"desc": "Panner, Oive Oil, besan",
+			"price": "145"
+		},
+		{
+			"id": 4,
+			"name": "Panner Sandwich",
+			"desc": "Potatoes, Paneer, bread",
+			"price": "118"
+		},
+		{
+			"id": 5,
+			"name": "Mushroom Tikka",
+			"desc": "Mushroom, onion, olive oil",
+			"price": "174"
+		},
+		{
+			"id": 6,
+			"name": "veg burger",
+			"desc": "bread, veg, sauce",
+			"price": "150"
+		},
+		{
+			"id": 7,
+			"name": "Onion pakora",
+			"desc": "Onion, besan, olive oil",
+			"price": "132"
+		}
+	],
+	"Soups": [
+		{
+			"id": 1,
+			"name": "Tomato soup",
+			"desc": "Tomatoes, Olive Oil, Cheese",
+			"price": "44"
+		},
+		{
+			"id": 2,
+			"name": "Chicken soup",
+			"desc": "chicken, olive oil, veg",
+			"price": "151"
+		},
+		{
+			"id": 3,
+			"name": "Panner soup",
+			"desc": "panner, olive oil, veg",
+			"price": "85"
+		},
+		{
+			"id": 4,
+			"name": "Munchow soup",
+			"desc": "veg, sauce, olive oil",
+			"price": "89"
+		},
+		{
+			"id": 5,
+			"name": "Corn Soup",
+			"desc": "corn, veg, olive oil",
+			"price": "74"
+		},
+		{
+			"id": 6,
+			"name": "mutton soup",
+			"desc": "mutton, veg, olive oil",
+			"price": "150"
+		},
+		{
+			"id": 7,
+			"name": "hot red soup",
+			"desc": "red chilli, veg, olive oil",
+			"price": "51"
+		}
+	],
+	"Desserts": [
+		{
+			"id": 1,
+			"name": "Gajar ka Halwa",
+			"desc": "Carrot, olive oil, sugar",
+			"price": "44"
+		},
+		{
+			"id": 2,
+			"name": "Gulab Jamun ",
+			"desc": "maida, sugar, koya",
+			"price": "51"
+		},
+		{
+			"id": 3,
+			"name": "Rasmalai",
+			"desc": "Milk, sugar, elachi",
+			"price": "45"
+		},
+		{
+			"id": 4,
+			"name": "Indian Shrikhand",
+			"desc": "Curd, sugar, elachi",
+			"price": "80"
+		},
+		{
+			"id": 5,
+			"name": "Rasgulla",
+			"desc": "Chena, Maida, sugar",
+			"price": "74"
+		},
+		{
+			"id": 6,
+			"name": "Rabri",
+			"desc": "Milk, sugar elachi",
+			"price": "50"
+		},
+		{
+			"id": 7,
+			"name": "sonpapri",
+			"desc": "besan, ghee, sugar",
+			"price": "32"
+		}
+	],
+	"Testimonial": [
+		{
+			"id": 1,
+			"name": "Tarak Mehta ",
+			"desc": "I just realised that I till date not reviewed this place... Although I visited them long ago... They are serving completely healthy food... Ambiance is very beautiful... Staffs are very courteous...",
+			"job": "food taster Inc"
+		},
+		{
+			"id": 2,
+			"name": "Riya Sinha",
+			"desc": "I just realised that I till date not reviewed this place... Although I visited them long ago... They are serving completely healthy food... Ambiance is very beautiful... Staffs are very courteous...",
+			"job": "software-engineer"
+		},
+		{
+			"id": 3,
+			"name": "Aashish Raj",
+			"desc": "Great food at a great price! Love the fish plates as well as the salads. Chain restaurant that doesn't feel like a chain! Love this place!",
+			"job": "Enterpenur"
+		},
+		{
+			"id": 4,
+			"name": "Saumya Sharma",
+			"desc": "Stopped in for dinner. Food was very good and reasonably priced. Ordered a steak dinner. It was tender and well seasoned.",
+			"job": "Bussiness-man"
+		},
+		{
+			"id": 5,
+			"name": "Archi Sahay",
+			"desc": "I just realised that I till date not reviewed this place... Although I visited them long ago... They are serving completely healthy food... Ambiance is very beautiful... Staffs are very courteous...",
+			"job": "Doctor"
+		},
+		{
+			"id": 6,
+			"name": "Harshit Anand",
+			"desc": "Great food at a great price! Love the fish plates as well as the salads. Chain restaurant that doesn't feel like a chain! Love this place!",
+			"job": "Writer"
+		}
+	]
+}
